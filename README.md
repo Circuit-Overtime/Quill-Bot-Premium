@@ -7,12 +7,7 @@ Enjoy all the premium features of Quillbot for free, including plagiarism checks
 ## 📚 Table of Contents
 - [Features](#-features)
 - [Getting Started](#-getting-started)
-  - [Installation Video](#installation-video)
-  - [Verification Code](#verification-code)
-- [Contributing](#-contributing)
-- [Support](#-support)
-- [Website](#-website)
-- [Repository Views](#-repository-views)
+- [Verification Code](#verification-code)
 
 ## 🌟 Features
 - Paraphrase unlimited words
